@@ -1,0 +1,5 @@
+/node_modules
+/build
+/file_storage/*
+*.pem
+yarn.lock

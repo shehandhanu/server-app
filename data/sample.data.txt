@@ -1,0 +1,133 @@
+{
+  "_id": {
+    "$oid": "6367abc28584cb75958ff5c2"
+  },
+  "first_name": "Rusiru",
+  "last_name": "Bandara",
+  "email": "rusiru@gmail.com",
+  "phone_number": "0776621325",
+  "user_name": "cyb40",
+  "password": "$2a$08$fNlhTinMufjSOmxy4depLOZhRtHF9ltlZ7WWC2meN9gqy1KFGpm3m",
+  "role": "admin",
+  "permissions": [
+    "allow_message",
+    "allow_download",
+    "allow_upload",
+    "allow_delete",
+    "allow_share"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667738562801"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667738562852"
+    }
+  },
+  "__v": 0,
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY3YWJjMjg1ODRjYjc1OTU4ZmY1YzIiLCJyb2xlIjoiYWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19tZXNzYWdlIiwiYWxsb3dfZG93bmxvYWQiLCJhbGxvd191cGxvYWQiLCJhbGxvd19kZWxldGUiLCJhbGxvd19zaGFyZSJdLCJpYXQiOjE2Njc3Mzg1NjJ9.qLkXqYkXeQK9_SMb_6ChAm_8MER1B-0nFXLA6ELNu8g"
+}
+
+---
+
+{
+  "_id": {
+    "$oid": "6367aca32a5956f8d5a1eaa3"
+  },
+  "first_name": "Senura",
+  "last_name": "Jayadeva",
+  "email": "senura@gmail.com",
+  "phone_number": "0776621333",
+  "user_name": "cyb41",
+  "password": "$2a$08$MP0wVvlfHpp.uTy4yBkPq.yjgx3PH1PTZ3Ekj0oJuO4VBT4j8v/Ye",
+  "role": "admin",
+  "permissions": [
+    "allow_message",
+    "allow_download",
+    "allow_upload",
+    "allow_delete",
+    "allow_share"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667738787892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667738787940"
+    }
+  },
+  "__v": 0,
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY3YWNhMzJhNTk1NmY4ZDVhMWVhYTMiLCJyb2xlIjoiYWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19tZXNzYWdlIiwiYWxsb3dfZG93bmxvYWQiLCJhbGxvd191cGxvYWQiLCJhbGxvd19kZWxldGUiLCJhbGxvd19zaGFyZSJdLCJpYXQiOjE2Njc3Mzg3ODd9.24Ethq78euyJlUMCyaQJg_PfepY1u7SiWFme8k2kCVs"
+}
+
+---
+
+{
+  "_id": {
+    "$oid": "6367acbf2a5956f8d5a1eaa6"
+  },
+  "first_name": "Lasal",
+  "last_name": "Hettiarachchi",
+  "email": "lasal@gmail.com",
+  "phone_number": "0776621567",
+  "user_name": "cyb42",
+  "password": "$2a$08$KL31DAfpHA3JP6vB0dbCMulu/uwXKySjfCAaF8r0ZXhYtbJVN4/hS",
+  "role": "admin",
+  "permissions": [
+    "allow_message",
+    "allow_download",
+    "allow_upload",
+    "allow_delete",
+    "allow_share"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667738815069"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667738815109"
+    }
+  },
+  "__v": 0,
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY3YWNiZjJhNTk1NmY4ZDVhMWVhYTYiLCJyb2xlIjoiYWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19tZXNzYWdlIiwiYWxsb3dfZG93bmxvYWQiLCJhbGxvd191cGxvYWQiLCJhbGxvd19kZWxldGUiLCJhbGxvd19zaGFyZSJdLCJpYXQiOjE2Njc3Mzg4MTV9.P4hbXD44yXu7XSItnFesN5otJ58wUk4pu2ioNDgHubY"
+}
+
+---
+
+{
+  "_id": {
+    "$oid": "6367ace72a5956f8d5a1eaa9"
+  },
+  "first_name": "Dilmi",
+  "last_name": "Palliyaguruge",
+  "email": "dilmi@gmail.com",
+  "phone_number": "0773261547",
+  "user_name": "cyb43",
+  "password": "$2a$08$qyUfLXYhMZtlvwssbsC33.jFe/4DExLdTaxgpaIJUk5AZFDyHaWX2",
+  "role": "admin",
+  "permissions": [
+    "allow_message",
+    "allow_download",
+    "allow_upload",
+    "allow_delete",
+    "allow_share"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667738855414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667738855457"
+    }
+  },
+  "__v": 0,
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY3YWNlNzJhNTk1NmY4ZDVhMWVhYTkiLCJyb2xlIjoiYWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19tZXNzYWdlIiwiYWxsb3dfZG93bmxvYWQiLCJhbGxvd191cGxvYWQiLCJhbGxvd19kZWxldGUiLCJhbGxvd19zaGFyZSJdLCJpYXQiOjE2Njc3Mzg4NTV9.Z1IemNwQO6Iy-t0jVedIULIcd3Mkkuy_n0V7LRoqcc4"
+}
